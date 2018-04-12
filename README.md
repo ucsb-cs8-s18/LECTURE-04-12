@@ -18,3 +18,13 @@ A file at a time
 
 # if __name__=="__main__":
 
+
+# Some Unix Commands
+
+Directory means "folder"
+
+* `cd`  change directory
+* `pwd`  print working directory (tell me what directory I'm in right now)
+* `ls`   list files
+                                
+                                  
