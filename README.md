@@ -13,3 +13,8 @@ A file at a time
 * Through Run menu in IDLE
 * `python3 file.py`
 * `python3 -i file.py`
+
+# Using import for your own functions
+
+# if __name__=="__main__":
+
